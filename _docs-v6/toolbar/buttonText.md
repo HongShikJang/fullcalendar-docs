@@ -9,7 +9,7 @@ Object, *default*:
 
 ```js
 {
-  today:    'today',
+  today:    '오늘',
   month:    'month',
   week:     'week',
   day:      'day',
